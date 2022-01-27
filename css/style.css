@@ -31,15 +31,16 @@ img {
     
 }
 
-div {
-    min-height: 100px;
-    padding: 20px;
-    border: 3px solid #ffffff;
-}
 
 .intro {
     border-radius : 15px;
     margin-top : 15px;
+}
+
+div {
+    min-height: 100px;
+    padding: 20px;
+    border: 3px solid #ffffff;
 }
 
 .red {
@@ -98,5 +99,6 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,255,1) 25%, rgba(0
 
 footer p {
     text-align: center;
+    font-size: 20px;
     padding: 10px 10px 10px 0px;
 }
